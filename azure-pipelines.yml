@@ -1,0 +1,37 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+- main
+
+pool:
+  vmImage: ubuntu-latest
+
+steps:
+- script: echo Hello, world!
+  displayName: 'Run a one-line script'
+
+- script: |
+    echo Add other tasks to build, test, and deploy your project.
+    echo See https://aka.ms/yaml
+  displayName: 'Run a multi-line script'
+
+- task: AWSShellScript@1
+  inputs:
+    awsCredentials: 'awscred'
+    regionName: 'us-east-1'
+    scriptType: 'inline'
+    inlineScript: |
+      # You can write your script inline here
+      terraform init
+      terraform fmt
+      terraform validate
+      terraform destroy -auto-approve
+      terraform plan
+      terraform apply -auto-approve
+      sleep 1m
+      terraform destroy -auto-approve
+      sleep 1m
+      echo "Hello there, You've successfully executed the Job. Congrats!!!"
