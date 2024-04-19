@@ -16,6 +16,12 @@ Resources Used:
 - YAML
 - GitHub
 
+Flow: 
+
+<img width="1239" alt="image" src="https://github.com/srinivle/lambda_api_sqs_pipes/assets/50224645/a7c24b97-8741-48cc-8d3f-aa685613147d">
+
+
+
 Sample screenshots: 
 <img width="913" alt="image" src="https://github.com/srinivle/lambda_api_sqs_pipes/assets/50224645/b8b99052-0944-481d-87b3-50df0adfba80">
 <img width="923" alt="image" src="https://github.com/srinivle/lambda_api_sqs_pipes/assets/50224645/ffbe33f2-e5e7-4f6d-be2f-b6196f8b8162">
