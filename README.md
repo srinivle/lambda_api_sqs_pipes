@@ -4,6 +4,7 @@
 3. In ADO Pipeline, I have configured couple of pipelines used both methods : Self Hosted Agent(AWS Instance) and Microsoft Hosted agent to build this infra as code.
 
 Resources Used: 
+- Terraform 
 - AWS API Gateway
 - AWS EC2 Instance
 - AWS Lambda
