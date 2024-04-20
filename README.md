@@ -18,9 +18,7 @@ Resources Used:
 
 Flow: 
 
-<img width="1239" alt="image" src="https://github.com/srinivle/lambda_api_sqs_pipes/assets/50224645/a7c24b97-8741-48cc-8d3f-aa685613147d">
-
-
+<img width="1882" alt="image" src="https://github.com/srinivle/lambda_api_sqs_pipes/assets/50224645/c2f01846-d532-486e-822d-3d369bec23e5">
 
 Sample screenshots: 
 <img width="913" alt="image" src="https://github.com/srinivle/lambda_api_sqs_pipes/assets/50224645/b8b99052-0944-481d-87b3-50df0adfba80">
