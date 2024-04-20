@@ -29,5 +29,7 @@ Sample screenshots:
 <img width="920" alt="image" src="https://github.com/srinivle/lambda_api_sqs_pipes/assets/50224645/7d5f2c20-d274-4118-b103-8736ad5d84bd">
 <img width="920" alt="image" src="https://github.com/srinivle/lambda_api_sqs_pipes/assets/50224645/74d77c8a-9cfe-4c24-a7cc-0395e1190720">
 <img width="920" alt="image" src="https://github.com/srinivle/lambda_api_sqs_pipes/assets/50224645/1ad0a8d4-bd99-413e-8149-46442209d021">
+<img width="955" alt="image" src="https://github.com/srinivle/lambda_api_sqs_pipes/assets/50224645/1927305d-64d9-4d8f-a811-f2552b163b7f">
+
 
 
